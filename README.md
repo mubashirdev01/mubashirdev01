@@ -13,7 +13,7 @@
 <br/>
 
 <div>
-I am a full-stack developer with expertise in Node.js, React, and Next.js, passionate about building intuitive, high-performing web and mobile applications for iOS and Android.
+I am a full-stack developer with expertise in Node.js, React, and Next.js, passionate about building intuitive, high-performing web applications.
 
 My background in Node.js and Express (MVC frameworks) enables me to develop scalable, reliable, and efficient back-end systems. On the front end, my proficiency with React and Next.js allows me to craft engaging, modern, and user-friendly interfaces using the latest development practices.
 
